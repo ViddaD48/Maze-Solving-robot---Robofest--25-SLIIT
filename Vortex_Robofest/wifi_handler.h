@@ -19,8 +19,8 @@ extern std::vector<std::pair<int,int>> compressedPath;
 extern WebServer server;
 
 // ==== WiFi credentials ====
-#define WIFI_SSID "FOE_Students"
-#define WIFI_PASS "FOE@30st"
+#define WIFI_SSID "*******"
+#define WIFI_PASS "*******"
 
 // ==== Function prototypes ====
 void initWiFi();
