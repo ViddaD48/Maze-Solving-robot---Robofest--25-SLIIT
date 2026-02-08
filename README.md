@@ -89,6 +89,3 @@ It was an invaluable opportunity to apply theoretical knowledge to a real-world 
 We sincerely thank the **RoboFest organizing committee**, judges, and mentors for providing an excellent platform to learn, innovate, and compete.
 
 ---
-
-## 📌 License
-This project is intended for educational and non-commercial use.
